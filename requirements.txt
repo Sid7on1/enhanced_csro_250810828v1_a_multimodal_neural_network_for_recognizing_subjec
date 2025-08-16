@@ -1,0 +1,33 @@
+# requirements.txt
+
+# Core Scientific Computing
+numpy==1.23.3
+scipy==1.11.0
+pandas==1.5.2
+
+# Machine Learning
+torch==1.15.0
+torchvision==0.10.0
+transformers==4.26.0
+
+# Data Processing
+tqdm==4.64.1
+
+# Visualization
+matplotlib==3.6.0
+pillow==9.3.1
+opencv-python==4.6.0.66
+
+# Utilities
+pyyaml==6.0
+requests==2.27.1
+
+# Testing and Development
+pytest==7.1.2
+flake8==4.0.1
+black==21.12b0
+
+# Please ensure that all dependencies are compatible before installing.
+# You may need to resolve conflicts or adjust specific versions as needed.
+# This file represents the project's core requirements.
+# Additional environment-specific requirements may be defined separately.
